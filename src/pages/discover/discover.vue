@@ -11,8 +11,8 @@
 
 <script>
 import discoverData from "@/static/mock/discover.json";
-import DiscoverItem from "pages/discover/components/discoverItem.vue";
-import DiscoverPublishType from "pages/discover/components/discoverPublishType.vue";
+import DiscoverItem from "@/pages/discover/components/discoverItem.vue";
+import DiscoverPublishType from "@/pages/discover/components/discoverPublishType.vue";
 import { getUniLocation } from "@/utils/location";
 export default {
   data() {

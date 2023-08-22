@@ -8,7 +8,6 @@
 </template>
 
 <script setup lang="ts">
-import home from "../home/home.vue";
 import { ref } from "vue";
 const title = ref("Hello");
 </script>

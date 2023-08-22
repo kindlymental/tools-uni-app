@@ -94,7 +94,7 @@ export default {
 };
 </script>
 
-<style lang="less" scoped>
+<style lang="stylus" scoped>
 .page-body {
   .location-wraper {
     position: fixed;

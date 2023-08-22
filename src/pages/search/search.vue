@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import SearchSearch from "pages/search/components/searchSearch.vue";
+import SearchSearch from "@/pages/search/components/searchSearch.vue";
 export default {
   name: "Search",
   components: {

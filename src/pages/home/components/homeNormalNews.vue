@@ -26,6 +26,7 @@
         </view>
       </block>
 
+      <!-- XXX: uni-load-more如何使用 -->
       <!-- 加载更多提示 -->
       <uni-load-more
         v-if="isLoading"
@@ -151,8 +152,7 @@ export default {
       .image-view {
         margin-top: 4rpx;
         border-radius: 10rpx;
-        width: 240rpx;
-        height: 120rpx;
+        height: 150rpx;
       }
     }
   }
