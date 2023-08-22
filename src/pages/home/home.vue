@@ -27,6 +27,7 @@ import HomeHeader from "./components/homeHeader.vue";
 import HomeTopNews from "./components/homeTopNews.vue";
 import HomeNormalNews from "./components/homeNormalNews.vue";
 import * as utils from "../../utils/request";
+import homeJson from "@/static/mock/home.json";
 
 export default {
   name: "Home",
@@ -58,10 +59,12 @@ export default {
     HomeNormalNews,
   },
   mounted() {
-    utils.ajax(utils.api.home, "GET", {}).then((data) => {
-      this.homeData = data;
-      console.log("data:", this.homeData);
-    });
+    // utils.ajax(utils.api.home, "GET", {}).then((data) => {
+    //   this.homeData = data;
+    //   console.log("data:", this.homeData);
+    // });
+
+    this.homeData = homeJson.data;
   },
   onPullDownRefresh() {
     uni.stopPullDownRefresh();

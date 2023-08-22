@@ -1,0 +1,45 @@
+{
+	"error_code": "200",
+	"error_msg": "",
+	"data": {
+		"pageTitle": "知识沸点",
+		"newsTitle": "今日最热",
+		"noticeText": "您如果有什么好的想法，可以联系我们，我们将提供更好的服务。",
+		"searchKeyList": [{
+			"id": 1,
+			"words": "JS"
+		}, {
+			"id": 2,
+			"words": "iOS"
+		}, {
+			"id": 3,
+			"words": "Flutter"
+		}],
+		"topNewsList": [{
+			"id": 4,
+			"title": "vue3.0新特性",
+			"detail": "vue3.0新特性有：1、支持tree-shaking；2、新增setup；3、引入了Composition API；4、新增三个组件（Fragment、Teleport、Suspense）；5、响应式API；6、响应式侦听等。 ",
+			"imgUrl": "https://v-static.36krcdn.com/ent/yp_pro/6205ae32-8243-4931-a33d-35d702250317.jpg",
+			"url": "https://www.36dianping.com/news/11056.html"
+		}],
+		"newsList": [{
+			"id": 1,
+			"title": "开发者眼中的 SwiftUI：它为我和用户带来了什么？",
+			"detail": "6月份是苹果用户和开发者社群非常活跃的时期，苹果几大新系统在 WWDC 发布后， 果粉们都会纷纷讨论 iOS 13， iPadOS 和 macOS 10.15 等的新亮点， 并发表自己的评价。 ",
+			"imgUrl": "https://cdn.sspai.com/2021/03/17/86b4030fc62e18473422a9dc558c429a.jpg?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1",
+			"url": "https://www.jianshu.com/p/ac505e19205d"
+		}, {
+			"id": 2,
+			"title": "javascript 面试的完美指南(开发者视角)",
+			"detail": "JavaScript（简称“JS”） 是一种具有函数优先的轻量级，解释型或即时编译型的编程语言。虽然它是作为开发Web页面的脚本语言而出名的，但是它也被用到了很多非浏览器环境中。",
+			"imgUrl": "",
+			"url": "https://blog.csdn.net/weixin_40802058/article/details/88740083"
+		}, {
+			"id": 3,
+			"title": "Flutter 你都知道些什么？",
+			"detail": "Flutter是谷歌的移动UI框架，可以快速在iOS和Android上构建高质量的原生用户界面。",
+			"imgUrl": "https://cdnp3.stackassets.com/588d7f047924b22cb7d04197550f5d679e084586/store/opt/596/447/224ac85c2abce067ef7a73da6d3d433cf2f84375bcb2cd38e45714effd0d/product_28668_product_shots1.jpg",
+			"url": "https://www.jianshu.com/p/5a0df9b4e817"
+		}]
+	}
+}

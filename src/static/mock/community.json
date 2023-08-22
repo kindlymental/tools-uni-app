@@ -1,0 +1,125 @@
+{
+	"code": "200",
+	"user_info": {
+		"level": -1,
+		"nickname": "欢迎您",
+		"headimgurl": "https://wx.qlogo.cn/mmhead/zB34mkOxrkPSjKghibAX0ZPoQ93Z2ZRR7z6b3mVhB7O4/132",
+		"coupon_num": 0,
+		"redpacket_num": 0,
+		"order_num": 0
+	},
+	"menu": {
+		"menuTitle": "一起来看看圈里人分享的东西吧！",
+		"menuList": [{
+				"title": "前端技术",
+				"intro": "",
+				"pic": "/static/images/community_hot.png",
+				"tag": "热门"
+			},
+			{
+				"title": "后端技术",
+				"intro": "服务端",
+				"pic": ""
+			},
+			{
+				"title": "移动端",
+				"intro": "移动开发",
+				"pic": ""
+			},
+			{
+				"title": "小程序",
+				"intro": "",
+				"pic": "/static/images/community_store.png"
+			}
+		]
+	},
+	"communityInfo": {
+		"hot_list": {
+			"id": "1",
+			"title": "今日热点",
+			"sub_title": "OpenAI",
+			"max_num": "0",
+			"more_link": "",
+			"sort": "2",
+			"status": "1",
+			"add_time": "1568689190",
+			"show_hot_rank": 1,
+			"form_list": [{
+					"id": "242",
+					"type": "2",
+					"title": "OpenAI最近发布了ChatGPT的插件系统Plugins",
+					"desc": "OpenAI最近发布了ChatGPT的插件系统Plugins，它可以帮助ChatGPT的用户检索实时信息、知识库信息或者执行各种操作，而开发这些Plugins或者使用这些Plugins的用户需要加入等待列表。Plugins目前可以访问实时数据、餐厅推荐、旅行计划、网店价格比较，甚至可以连接第三方平台，自动化工具Zapier也在其中。OpenAI也提供了两个自家的插件：一个是网络浏览器，一个是代码解释器。",
+					"pic": "https://cdn.staticaly.com/gh/liugezhou/image@master/blog/issu100-02.png",
+					"url": "https://github.com/liugezhou/ChatGPT-Next-Web",
+					"type": "OpenAI"
+				},
+				{
+					"id": "243",
+					"type": "2",
+					"title": "Chrome插件开发的入门指南",
+					"desc": "",
+					"pic": "https://img0.baidu.com/it/u=2472135082,337925093&fm=253&app=138&size=w931&n=0&f=JPEG&fmt=auto?sec=1681146000&t=ebd977aff77442e95094ced598bd37b0",
+					"url": "",
+					"type": "插件"
+				},
+				{
+					"id": "244",
+					"type": "2",
+					"title": "熊猫图床",
+					"desc": "免费的图床在线工具，可以批量上传图片，目前网站已托管359张照片，比较好的体验是可以批量上传图片。只是上传的图片的开始不能修改名称、上传成功后的地址复制隐藏较深、以及对于网站的长期维护感觉是个问题。",
+					"pic": "https://cdn.staticaly.com/gh/liugezhou/image@master/blog/week82_03.png",
+					"url": "https://panda995.top:500/",
+					"type": "图床"
+				},
+				{
+					"id": "244",
+					"type": "2",
+					"title": "解锁 Netflix 官网",
+					"desc": "",
+					"pic": "https://cdn.staticaly.com/gh/liugezhou/image@master/blog/week82_02.png",
+					"url": "https://pandavpnpro.com/blog/zh-cn/unblock-netflix-in-china",
+					"type": "技能"
+				}
+			]
+		},
+		"recommend_list": {
+			"id": "2",
+			"title": "最新发布",
+			"sub_title": "看见世界的美",
+			"max_num": "0",
+			"more_link": "",
+			"sort": "2",
+			"status": "1",
+			"add_time": "1568689190",
+			"show_hot_rank": 0,
+			"form_list": [{
+					"id": "244",
+					"type": "2",
+					"title": "免费的 Web 服务，根据大纲笔记的层级，自动生成幻灯片。",
+					"desc": "可以选择主题和模板，直接在浏览器演示，也可以导出成 PDF，预览效果很棒。",
+					"pic": "https://cdn.staticaly.com/gh/liugezhou/image@master/blog/weekly81_02.png",
+					"url": "https://www.mindshow.fun/#/home",
+					"type": "技能"
+				},
+				{
+					"id": "9108",
+					"cat_id": "59",
+					"type": "2",
+					"title": "一个不需要使用代码的网站搭建平台，这使得初学者和高级用户都很容易上手。使用WebFlow，可以创建自定义网站、博客、投资组合、电子商务商店等。",
+					"pic": "https://cdn.staticaly.com/gh/liugezhou/image@master/blog/weekly81_04.png",
+					"type": "webflow",
+					"url": "https://webflow.com/"
+				},
+				{
+					"id": "9109",
+					"cat_id": "58",
+					"type": "2",
+					"title": "本文精选2022年优质电报 TG 群组、Telegram 频道以及 TG 搜索机器人等电报机器人，囊括技术、薅羊毛、合租、科学网路、海淘购物等等，花样繁多，应有尽有。",
+					"pic": "https://cdn.staticaly.com/gh/liugezhou/image@master/blog/week82_01.png",
+					"type": "技能",
+					"url": "https://pandavpnpro.com/blog/zh-cn/telegram-group-channel-bot"
+				}
+			]
+		}
+	}
+}
