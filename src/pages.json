@@ -76,13 +76,13 @@
 				"text": "我的",
 				"iconPath": "static/images/tabbar_me.png",
 				"selectedIconPath": "static/images/tabbar_me_selected.png"
+			},
+			{
+				"pagePath": "pages/map/map",
+				"text": "地图",
+				"iconPath": "static/images/tabbar_map.png",
+				"selectedIconPath": "static/images/tabbar_map_selected.png"
 			}
-			// {
-			// 	"pagePath": "pages/map/map",
-			// 	"text": "地图",
-			// 	"iconPath": "static/images/tabbar_map.png",
-			// 	"selectedIconPath": "static/images/tabbar_map_selected.png"
-			// }
 		],
 		"backgroundColor": "#ffffff",
 		"color": "#8F8F94",
