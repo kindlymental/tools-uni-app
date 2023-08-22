@@ -6,8 +6,8 @@
 </template>
 
 <script>
-import BoonHeader from "pages/boon/components/boonHeader.vue";
-import BoonList from "pages/boon/components/boonList.vue";
+import BoonHeader from "@/pages/boon/components/boonHeader.vue";
+import BoonList from "@/pages/boon/components/boonList.vue";
 import boonData from "../../static/mock/boon.json";
 export default {
   name: "Boon",

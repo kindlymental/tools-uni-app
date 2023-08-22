@@ -10,4 +10,14 @@ onHide(() => {
   console.log("App Hide");
 });
 </script>
-<style></style>
+<style>
+/* 置灰 */
+/* body {
+  -webkit-filter: grayscale(100%);
+  -moz-filter: grayscale(100%);
+  -ms-filter: grayscale(100%);
+  -o-filter: grayscale(100%);
+  filter: opacity(0.4);
+  filter: grayscale(100%);
+} */
+</style>
